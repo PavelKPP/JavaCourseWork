@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/driverreg"
+    tools:context=".DriverRegLoginActivity">
+
+    <EditText
+        android:id="@+id/driverEmail"
+        android:layout_width="341dp"
+        android:layout_height="40dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="275dp"
+        android:ems="10"
+        android:hint="@string/email"
+        android:inputType="textEmailAddress" />
+
+    <EditText
+        android:id="@+id/driverPassword"
+        android:layout_width="336dp"
+        android:layout_marginTop="335dp"
+        android:layout_marginLeft="30dp"
+        android:layout_height="40dp"
+        android:ems="10"
+        android:inputType="textPassword"
+        android:hint="@string/password"
+         />
+
+    <Button
+        android:id="@+id/signInDriver"
+        android:layout_width="218dp"
+        android:layout_marginTop="410dp"
+        android:layout_marginLeft="30dp"
+        android:layout_height="41dp"
+        android:text="@string/signin"
+        app:iconTint="@color/black"
+        android:background="@android:color/holo_green_dark"
+        android:textStyle="italic"
+        />
+
+    <Button
+        android:id="@+id/signUpDriver"
+        android:layout_width="218dp"
+        android:layout_marginTop="480dp"
+        android:layout_marginLeft="30dp"
+        android:layout_height="46dp"
+        android:background="@android:color/holo_red_dark"
+        android:text="@string/signup"
+        android:textStyle="italic"
+        tools:ignore="MissingConstraints"
+        />
+
+    <TextView
+        android:id="@+id/accountCreate"
+        android:layout_width="204dp"
+        android:layout_height="26dp"
+        android:layout_marginTop="450dp"
+        android:layout_marginLeft="30dp"
+        android:text="@string/createQuestion"
+        android:textColor="@android:color/background_dark"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        />
+</RelativeLayout>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/shuttler_welcome"
+    tools:context=".WelcomeActivity">
+
+
+    <Button
+        android:id="@+id/driverbtn"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="270dp"
+        android:background="@android:color/holo_blue_light"
+        android:text="@string/driverbtn" />
+
+    <Button
+        android:id="@+id/userbtn"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="330dp"
+        android:background="@android:color/holo_green_dark"
+        android:text="@string/userbtn" />
+
+    <Button
+        android:id="@+id/faqbtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="390dp"
+        android:background="@android:color/holo_blue_light"
+        android:text="@string/faqbtn" />
+</RelativeLayout>

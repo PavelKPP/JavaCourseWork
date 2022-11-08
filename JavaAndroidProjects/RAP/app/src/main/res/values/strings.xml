@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RAP</string>
+    <string name="email">abc@gmail.com</string>
+    <string name="password">Qwerty12345</string>
+    <string name="signin">Увійти</string>
+    <string name="signup">Реєстрація</string>
+    <string name="createQuestion">Немає аккаунта?</string>
+    <string name="title_activity_drivers_map">DriversMapActivity</string>
+    <string name="title_activity_customers_map">CustomersMapActivity</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_customer_map">CustomerMap</string>
+</resources>

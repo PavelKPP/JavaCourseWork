@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "350950321287",
+    "project_id": "rapcours-d5ce2",
+    "storage_bucket": "rapcours-d5ce2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350950321287:android:7cd38294de88c86cb85c22",
+        "android_client_info": {
+          "package_name": "com.example.rap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350950321287-e14nmv7885qigmkun5jeq8iidfsr31d4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBGRk0srwbEbdxNcnLFSF2krt5LrmXlu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350950321287-e14nmv7885qigmkun5jeq8iidfsr31d4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "950545769219",
+    "project_id": "shuttler-14afc",
+    "storage_bucket": "shuttler-14afc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950545769219:android:b4917b01e8d81ef543bf36",
+        "android_client_info": {
+          "package_name": "com.example.shuttler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950545769219-qkr6bemv5vjlhqedej18l4an0lncl9vl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOfbXC5U_QmlEKu_D0Maxx4xLFK2EKeG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950545769219-qkr6bemv5vjlhqedej18l4an0lncl9vl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
